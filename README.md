@@ -6,6 +6,9 @@ Les paquets suivant sont utilisé dans le script:
     - mutt
     - duplicity
 
+
+./backup.sh --help pour afficher l'aide
+
 Vous devez pouvoir utiliser le script en modifiant uniquement les paramètres dans la partie Configuration du script
 
 Du à un bug de duplicity je supprime le cache de duplicity à chaque backup (ligne 62)
