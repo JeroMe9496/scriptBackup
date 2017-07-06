@@ -1,6 +1,6 @@
 # scriptBackup
 #Auteur: Marquis Jérôme
-#URL   : www.swissappy.ch
+#URL   : https://jerome-marquis.ch
 
 Les paquets suivant sont utilisé dans le script:
     - mutt
